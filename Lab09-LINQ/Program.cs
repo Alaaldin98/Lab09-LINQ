@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 
 
-namespace LINQLab
+namespace Lab09LINQ
 {
     delegate void FindNeighborhoods(int number);
     class Program
